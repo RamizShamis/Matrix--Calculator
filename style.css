@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: brown;
+}
+
+label {
+    margin-right: 10px;
+}
+
+input {
+    margin: 5px;
+    
+}
+
+.matrix {
+    margin: 10px 0;
+}
+
+button {
+    margin-top: 10px;
+    
+}
